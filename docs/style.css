@@ -1,6 +1,6 @@
 /* This is a comment in CSS. */
 body {color: indigo;
-background-color: Gainsboro;
+background-image: url("/images/greenbackground.jpg");
 font-family: arial, helvetica, sans-serif; }
 /* CSS inheritance rules indicate that all elements inside the body will inherit the color and font-family properties that I set here on this BIG container element */
 
