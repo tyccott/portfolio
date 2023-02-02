@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Corpus Analysis</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+
+    </head>
+    <body>
+     
+        <h1>Tyler Cottrill ~ Web Portfolio</h1>
+        
+        <nav>
+            
+            <ul class="menuB">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="reflection.html">Reflection</a></li>
+                <li><a href="antconc.html">Reflection</a></li>
+            </ul>
+        </nav>
+        
+        <section class="writing">
+
+            <figure class="photoGallery">
+                <img class="photo" src="images/waterfallcreekcropped.jpg" alt="small waterfall in creek" />
+                <figcaption>Small waterfall at the bottom of Wintergreen Gorge.</figcaption>
+            </figure>
+            
+            figure class="photoGallery">
+                <img class="photo" src="images/waterfallcreekcropped.jpg" alt="small waterfall in creek" />
+                <figcaption>Small waterfall at the bottom of Wintergreen Gorge.</figcaption>
+            </figure>
+            
+                </ul>
+            </div>
+
+        </section>
+        
+        <section class="gallery">
+            <figure class="photoGallery">
+                <img class="photo" src="images/waterfallcreekcropped.jpg" alt="small waterfall in creek" />
+                <figcaption>Small waterfall at the bottom of Wintergreen Gorge.</figcaption>
+            </figure>
+
+
+            <figure class="photoGallery">
+                <img class="photo" src="images/ezgif.com-gif-maker.gif"
+                    alt="gif of ghost falling on its face" />
+                <figcaption>Little ghost man falls on their face.</figcaption>
+            </figure>
+
+            <figure class="photoGallery">
+                <img class="photo" src="images/overlookinggorge.jpg"
+                    alt="photo of the gorge" />
+                <figcaption>Photograph from the edge of the Wintergreen Gorge.</figcaption>
+            </figure>
+        </section>
+    </body>
+</html>
